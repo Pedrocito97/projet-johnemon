@@ -1,0 +1,24 @@
+{
+  "dateToSave": "2024-09-27T07:56:34.452Z",
+  "newMaster": {
+    "name": "Pierre",
+    "johnemonCollection": [
+      {
+        "name": "inaYor",
+        "level": 1,
+        "experienceMeter": 0,
+        "attackRange": 7,
+        "defenseRange": 1,
+        "healthPool": 20,
+        "catchPhrase": "Johnemon, go!"
+      }
+    ],
+    "healingItems": 5,
+    "reviveItems": 3,
+    "JOHNEBALLS": 10
+  },
+  "newWorld": {
+    "day": 1,
+    "logs": []
+  }
+}
